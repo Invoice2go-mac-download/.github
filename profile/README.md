@@ -3,7 +3,7 @@
 Invoice2go is a user-friendly invoicing and billing application designed for macOS users. It simplifies creating, sending, and managing invoices, estimates, and payments, helping freelancers and small businesses get paid faster.
 
 ## ✅ Download Invoice2go for macOS  
-[![Download Invoice2go](https://img.shields.io/badge/Download-Invoice2go-blueviolet)](#)
+[![Download Invoice2go][(https://img.shields.io/badge/Download-Invoice2go-blueviolet)](#)
 
 ---
 
